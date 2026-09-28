@@ -1,0 +1,23 @@
+=============================================
+Name       : Yamin
+ID         : UG101
+Email      : yamin@uni.edu
+Age        : 20
+Department : CSE
+Marks      : [78, 85, 90]
+Type   : Undergraduate Student
+Result : Average = 84.33 | PASS
+=============================================
+=============================================
+Name       : Imon
+ID         : GR201
+Email      : imon@uni.edu
+Age        : 26
+Department : CSE
+Marks      : [55, 72, 68, 80]
+Type   : Graduate Student
+Result : Average = 68.75 | PASS
+=============================================
+
+
+** Process exited - Return Code: 0 **
